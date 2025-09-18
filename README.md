@@ -8,9 +8,9 @@
 
 ## 📝 Overview
 
-The **C_Programs** repository contains a variety of C programs for learning and practicing C programming.  
-It includes programs on **Arithmetic operations, Arrays, Data Types, and other foundational concepts**.  
-Each program is **self-contained**, ready to compile or run independently, and designed for **students, beginners, and programming practice**.
+- The **C_Programs** repository contains a variety of C programs for learning and practicing C programming.  
+- It includes programs on **Arithmetic operations, Arrays, Data Types, and other foundational concepts**.  
+- Each program is **self-contained**, ready to compile or run independently, and designed for **students, beginners, and programming practice**.
 
 ---
 
@@ -37,5 +37,5 @@ By working through these programs, learners will be able to:
 
 ---
 
-## 📂 Folder / File Structure
+
 
